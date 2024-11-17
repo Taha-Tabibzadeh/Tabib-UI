@@ -14,8 +14,7 @@
  	<li>Flexible coding, independent of jQuery</li>
 </ul>
 
-
-| --- | --- |
+|     |     |
 | IN THE NAME OF GOD |     |
 | Library Details |     |
 | Version: | 1.0.1 |

@@ -14,6 +14,17 @@
  	<li>Flexible coding, independent of jQuery</li>
 </ul>
 
+|     |     |
+| --- | --- |
+| IN THE NAME OF GOD |     |
+| Library Details |     |
+| Version: | 1.0.1 |
+| Author: | Taha Tabibzadeh |
+| Website: | https://tabibzade.com |
+| Docs: | https://tabibzade.com/tabib-ui-js-library |
+| license: | MIT license |
+| Release Date: | 2024/05/11 \| 1403/02/22 |
+
 <hr />
 
 <h2>The list of widgets in the Tabib UI library</h2>

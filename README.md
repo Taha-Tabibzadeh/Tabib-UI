@@ -15,6 +15,7 @@
 </ul>
 
 <p align="center">
+  
 | IN THE NAME OF GOD      |                      |
 |-------------------------|----------------------|
 | Library Details         |                      |
@@ -24,6 +25,7 @@
 | Docs:                   | [Documentation](https://tabibzade.com/tabib-ui-js-library) |
 | License:                | MIT license          |
 | Release Date:           | 2024/05/11 | 1403/02/22 |
+
 </p>
 
 

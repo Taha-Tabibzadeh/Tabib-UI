@@ -13,8 +13,9 @@
  	<li>Extremely lightweight (43 KB) to optimize page loading speed</li>
  	<li>Flexible coding, independent of jQuery</li>
 </ul>
-
-<p align="center">
+<br>
+<hr>
+<p style="text-align: center;" align="center">
   
 | IN THE NAME OF GOD      |                      |
 |-------------------------|----------------------|

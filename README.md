@@ -9,7 +9,7 @@
 افزونه Tabib UI یک کتابخانه جاوا اسکریپت سبک و کارآمد است که مجموعه‌ای از ابزارها را برای ساخت آسان رابط کاربری صفحات وب شامل می‌شود. این کتابخانه توسط [طاها طبیب زاده](https://tabibzadeh.com/about-me/) توسعه یافته است. از مزیت‌های مهم این کتابخانه می‌توان به موارد زیر اشاره کرد.
 <br>
 <ul>
- 	<li>12 practical widgets for designing user interfaces</li>
+ 	<li>12 practical widgets for designing web user interfaces</li>
  	<li>Extremely lightweight (43 KB) to optimize page loading speed</li>
  	<li>Flexible coding, independent of jQuery</li>
 </ul>
